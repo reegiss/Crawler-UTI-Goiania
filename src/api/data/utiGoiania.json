@@ -1,0 +1,318 @@
+{
+    "utiGoiania": {
+      "data": [
+        {
+           "unitDesc":"CLINICA DO ESPORTE ORTOPEDIA FRAT E FISIOTERAPIA LTDA",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"8",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"8"
+        },
+        {
+           "unitDesc":"CRER",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"15",
+           "freeAmount":"5",
+           "reservAmount":"0",
+           "totalOffered":"20"
+        },
+        {
+           "unitDesc":"GASTRO SALUSTIANO HOSPITAL",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"9",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"9"
+        },
+        {
+           "unitDesc":"HOSPITAL DA CRIANCA",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"6",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"6"
+        },
+        {
+           "unitDesc":"HOSPITAL DA CRIANCA",
+           "descriptionBed":"UTI PEDIATRICA",
+           "busyAmount":"6",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"6"
+        },
+        {
+           "unitDesc":"HOSPITAL DAS CLINICAS",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"8",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"8"
+        },
+        {
+           "unitDesc":"HOSPITAL DAS CLINICAS",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"6",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"6"
+        },
+        {
+           "unitDesc":"HOSPITAL DAS CLINICAS",
+           "descriptionBed":"UTI II - ADULTO - COVID19",
+           "busyAmount":"4",
+           "freeAmount":"6",
+           "reservAmount":"0",
+           "totalOffered":"10"
+        },
+        {
+           "unitDesc":"HOSPITAL DE CANCER",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"7",
+           "freeAmount":"3",
+           "reservAmount":"0",
+           "totalOffered":"10"
+        },
+        {
+           "unitDesc":"HOSPITAL DE DOENCAS TROPICAIS DR. ANUAR AUAD",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"8",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"9"
+        },
+        {
+           "unitDesc":"HOSPITAL DE DOENCAS TROPICAIS DR. ANUAR AUAD",
+           "descriptionBed":"UTI PEDIATRICA",
+           "busyAmount":"0",
+           "freeAmount":"4",
+           "reservAmount":"0",
+           "totalOffered":"4"
+        },
+        {
+           "unitDesc":"HOSPITAL DE URGENCIAS DE GOIANIA - HUGO",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"56",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"57"
+        },
+        {
+           "unitDesc":"HOSPITAL DE URGENCIAS G O L SIQUEIRA - HUGOL",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"43",
+           "freeAmount":"4",
+           "reservAmount":"0",
+           "totalOffered":"47"
+        },
+        {
+           "unitDesc":"HOSPITAL DE URGENCIAS G O L SIQUEIRA - HUGOL",
+           "descriptionBed":"UTI QUEIMADURA",
+           "busyAmount":"3",
+           "freeAmount":"4",
+           "reservAmount":"0",
+           "totalOffered":"7"
+        },
+        {
+           "unitDesc":"HOSPITAL DE URGENCIAS G O L SIQUEIRA - HUGOL",
+           "descriptionBed":"UTI ADULTO II CORONARIANA",
+           "busyAmount":"9",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"10"
+        },
+        {
+           "unitDesc":"HOSPITAL DE URGENCIAS G O L SIQUEIRA - HUGOL",
+           "descriptionBed":"UTI PEDIATRICA",
+           "busyAmount":"10",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"10"
+        },
+        {
+           "unitDesc":"HOSPITAL E MATERNIDADE MUNICIPAL CELIA CAMARA",
+           "descriptionBed":"UTI II - ADULTO - COVID19",
+           "busyAmount":"26",
+           "freeAmount":"4",
+           "reservAmount":"0",
+           "totalOffered":"30"
+        },
+        {
+           "unitDesc":"HOSPITAL E MATERNIDADE SANTA BARBARA",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"6",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"7"
+        },
+        {
+           "unitDesc":"HOSPITAL E MATERNIDADE SANTA BARBARA",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"1",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"1"
+        },
+        {
+           "unitDesc":"HOSPITAL GERAL DE GOIANIA - DR. ALBERTO RASSI",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"26",
+           "freeAmount":"4",
+           "reservAmount":"0",
+           "totalOffered":"30"
+        },
+        {
+           "unitDesc":"HOSPITAL GOIANIA LESTE",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"6",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"6"
+        },
+        {
+           "unitDesc":"HOSPITAL INFANTIL DE CAMPINAS",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"4",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"4"
+        },
+        {
+           "unitDesc":"HOSPITAL INFANTIL DE CAMPINAS",
+           "descriptionBed":"UTI PEDIATRICA",
+           "busyAmount":"2",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"3"
+        },
+        {
+           "unitDesc":"HOSPITAL JACOB FACURI",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"30",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"30"
+        },
+        {
+           "unitDesc":"HOSPITAL JACOB FACURI",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"24",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"25"
+        },
+        {
+           "unitDesc":"HOSPITAL MATERNO INFANTIL",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"10",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"10"
+        },
+        {
+           "unitDesc":"HOSPITAL MATERNO INFANTIL",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"5",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"5"
+        },
+        {
+           "unitDesc":"HOSPITAL MATERNO INFANTIL",
+           "descriptionBed":"UTI PEDIATRICA",
+           "busyAmount":"10",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"10"
+        },
+        {
+           "unitDesc":"HOSPITAL ORTOPEDICO DE GOIANIA / GERALDO PEDRA",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"0",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"1"
+        },
+        {
+           "unitDesc":"HOSPITAL RUY AZEREDO",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"4",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"4"
+        },
+        {
+           "unitDesc":"HOSPITAL RUY AZEREDO",
+           "descriptionBed":"UTI ADULTO II CORONARIANA",
+           "busyAmount":"3",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"3"
+        },
+        {
+           "unitDesc":"HOSPITAL SANTA ROSA",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"5",
+           "freeAmount":"1",
+           "reservAmount":"0",
+           "totalOffered":"6"
+        },
+        {
+           "unitDesc":"IGOPE",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"6",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"6"
+        },
+        {
+           "unitDesc":"IGOPE",
+           "descriptionBed":"UTI PEDIATRICA",
+           "busyAmount":"4",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"4"
+        },
+        {
+           "unitDesc":"MATERNIDADE DONA IRIS",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"10",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"10"
+        },
+        {
+           "unitDesc":"MATERNIDADE E HOSPITAL SAO JUDAS TADEU",
+           "descriptionBed":"UTI NEONATAL II",
+           "busyAmount":"16",
+           "freeAmount":"0",
+           "reservAmount":"0",
+           "totalOffered":"16"
+        },
+        {
+           "unitDesc":"PRONTO SOCORRO PARA QUEIMADURAS LTDA",
+           "descriptionBed":"UTI QUEIMADURA",
+           "busyAmount":"1",
+           "freeAmount":"2",
+           "reservAmount":"0",
+           "totalOffered":"3"
+        },
+        {
+           "unitDesc":"SANTA CASA DE MISERICORDIA DE GOIANIA",
+           "descriptionBed":"UTI ADULTO II",
+           "busyAmount":"12",
+           "freeAmount":"2",
+           "reservAmount":"2",
+           "totalOffered":"16"
+        },
+        {
+           "unitDesc":"SANTA CASA DE MISERICORDIA DE GOIANIA",
+           "descriptionBed":"UTI ADULTO II CORONARIANA",
+           "busyAmount":"2",
+           "freeAmount":"0",
+           "reservAmount":"1",
+           "totalOffered":"3"
+        }
+     ]
+    }
+  }
