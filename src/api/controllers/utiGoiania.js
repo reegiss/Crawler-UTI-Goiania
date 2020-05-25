@@ -3,6 +3,7 @@ module.exports = app => {
   const craw = require('../services/utiGoiania');
   const cheerio = require('cheerio');
   const uuidv4 = require('uuid/v4');
+  const db = app.data.utiGoiania;
 
 
   const controller = {};
@@ -38,6 +39,8 @@ module.exports = app => {
           }
         }
         return responseFinal;
+      }).catch(err => {
+        return db;
       });
     return res.status(200).json(apiRetorno);
   }
