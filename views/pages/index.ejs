@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <% include ../partials/header.ejs %>
+</head>
+
+<body>
+
+  <% include ../partials/nav.ejs %>
+
+  <div class="jumbotron text-center">
+    <div class="container">
+
+      <h1>Bem vindo</h1>
+      <p>Esta pagina disponibiliza uma API Json com os leitos de UTI disponibilizados pela
+        Rede Pública Municipal de Goiania. Consultada na Secretaria Municipal de Saúde de Goiânia-GO.
+      </p>
+
+      <a type="button" class="btn btn-lg btn-primary" href="https://github.com/reegiss/Crawler-UTI-Goiania"><span
+          class="glyphicon glyphicon-download"></span> Ver codigo no Github</a>
+      <a type="button" class="btn btn-lg btn-primary" href="/api/v1/uti-goiania"><span
+          class="glyphicon glyphicon-download"></span> Consultar /api/v1/uti-goiania"</a>
+    </div>
+  </div>
+  <div class="container">
+
+    <hr>
+    <div class="row">
+      <h3>Exemplo do retorno</h3>
+      <pre>
+        <code>
+          {
+            "utiGoiania": {
+               "data": [{
+                     "id": "8f0710ab-0d8e-44ef-ba37-0500cb998440",
+                     "unitDesc": "CLINICA DO ESPORTE ORTOPEDIA FRAT E FISIOTERAPIA LTDA",
+                     "descriptionBed": "UTI ADULTO II",
+                     "busyAmount": "8",
+                     "freeAmount": "0",
+                     "reservAmount": "0",
+                     "totalOffered": "8"
+                  }
+               ],
+               "updateTime": 1590391452937
+            }
+         }
+        </code>
+        </pre>
+
+    </div> <!-- row -->
+
+  </div>
+
+
+</body>
+
+</html>
