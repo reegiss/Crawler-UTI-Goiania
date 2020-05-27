@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 
-const url = "https://www2.goiania.go.gov.br/sistemas/siscv/asp/siscvg0930f0.asp";
+const url = "https://www.goiania.go.gov.br/sistemas/siscv/asp/siscvg0930f0.asp";
 
 async function fetchData() {
     console.log("Crawling data...")
